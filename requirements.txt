@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+python-dotenv
+psycopg2-binary
+pgvector
+sentence-transformers
+pyarrow
+pyiceberg[sql-sqlite,pyarrow]
+
+# Hybrid Retrieval
+rank-bm25
+rapidfuzz
